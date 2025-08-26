@@ -1,0 +1,4 @@
+[submodule "model_convert"]
+	path = model_convert
+	url = https://github.com/techshoww/CosyVoice.git
+	branch = fix_shape_infer
