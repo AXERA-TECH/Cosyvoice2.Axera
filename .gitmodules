@@ -2,3 +2,7 @@
 	path = model_convert
 	url = https://github.com/techshoww/CosyVoice.git
 	branch = fix_shape_infer
+[submodule "cpp"]
+	path = cpp
+	url = https://github.com/techshoww/ax-llm.git
+	branch = cosyvoice2
