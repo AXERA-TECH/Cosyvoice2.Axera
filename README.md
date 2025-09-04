@@ -1,8 +1,9 @@
 # Cosyvoice2.Axera
 Cosyvoice2 语音生成demo on Axera
 
+- clone 代码：git clone --recursive https://github.com/AXERA-TECH/Cosyvoice2.Axera.git
 - 模型转换请参考[模型转换](/model_convert/README.md)
-- [c++ demo](cpp)
+- [c++ demo](cpp/README.md)
 
 ## 支持平台
 
